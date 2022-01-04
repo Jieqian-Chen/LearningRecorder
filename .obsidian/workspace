@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "2a5a7710b1ec352b",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b2e33b5909895d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20220104 writting/daily thing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da0bf49f57bc7de8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a966200fea6480e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f78ca1fd39afce3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0888cc4f2138c366",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce57bd14cd3eeacc",
+    "type": "split",
+    "children": [
+      {
+        "id": "640a8c6b96783161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b00f160abdf982",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20220104 writting/daily thing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "13b2e33b5909895d",
+  "lastOpenFiles": [
+    "20220104 writting/daily thing.md"
+  ]
+}
